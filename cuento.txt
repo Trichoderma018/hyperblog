@@ -1,5 +1,7 @@
 Cuento de mi perro loco
 
-Mi perro es muy calmado
+Mi perro no es nada calmado
 
-El no hace desastres
+El hace muchos desastres
+
+Solo tiene un año
